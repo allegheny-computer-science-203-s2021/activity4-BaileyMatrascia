@@ -12,6 +12,7 @@ this repository will fail, as evidenced by a red
 
 This assignment invites a developer to explore the use of GitHub project boards and GitHub Actions and badges.
 
+[![Actions Status](../../workflows/build/badge.svg)](../../actions)
 ## Tasks
 
 1. Create at least three GitHub issues in each others' repositories.
